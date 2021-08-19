@@ -1,0 +1,21 @@
+# mac
+.DS_Store
+
+# npm
+node_modules/
+
+# yarn
+yarn-error.log
+
+# eslint cache
+.eslintcache
+
+# build folder
+dist/
+
+# test coverage
+coverage
+
+# cypress
+cypress/videos
+cypress/screenshots
